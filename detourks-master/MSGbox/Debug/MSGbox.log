@@ -1,0 +1,12 @@
+﻿  MSGbox.cpp
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(94,12): warning C4101: “a3”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(93,11): warning C4101: “a2”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(92,13): warning C4101: “a1”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(96,12): warning C4101: “a5”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(97,27): warning C4101: “a6”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(95,11): warning C4101: “a4”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(99,13): warning C4101: “a8”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(98,11): warning C4101: “a7”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(91,10): warning C4101: “a0”: 未引用的局部变量
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(75): error C4700: 使用了未初始化的局部变量“h2”
+C:\Users\admin\Desktop\software-sec\detourks-master\MSGbox\MSGbox.cpp(28): warning C4715: “readfile”: 不是所有的控件路径都返回值
